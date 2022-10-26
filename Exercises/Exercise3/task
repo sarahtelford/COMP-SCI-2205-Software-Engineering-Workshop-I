@@ -1,0 +1,81 @@
+
+Course Name
+
+Software Engineering Workshop 1
+
+Course Code
+
+COMP SCI 2205
+
+Assessment Component
+
+Exercise 3 (5%) – Individual Assessment
+
+Release Date
+
+ 
+
+Due Date
+
+01/05/2020 by 11:55pm.
+
+Submission by
+
+Canvas (MyUni)
+
+ 
+
+System Description
+
+ A Web-based system is required to support Emergency Healthcare Workers. The Emergency response team members include paramedics, emergency response team members at hospitals and doctors. It is very important for the members of the health emergency response team to have quick access to the required information of patients. An emergency activity corresponds to an action/event that supports healthcare under given emergency scenarios such as deployment of an ambulance, First aid, etc. Some of the key features of such a system are:
+
+For paramedics
+
+It shall support paramedics to join an emergency activity after authentication.
+It shall provide information of other paramedics participating in an emergency activity.
+It shall support paramedics to share information with each other in an online system.
+It shall allow paramedics to have access to patient’s medical history (such as current medication status, blood groups, and allergy status) using Medicare card ID.
+It shall allow paramedics to inform the emergency staff at a hospital about the emergency activity if a patient is to be taken to a hospital.
+It shall support paramedics to share information of patients’ current health status with emergency medical staff at a hospital.
+It shall support communication of paramedics with response team members at a hospital using audio and visual channels.
+ 
+
+For emergency response team and doctors at a hospital
+
+The system shall allow staff members to have access to the detailed health record of a patient while the patient is on the way to the hospital.
+It shall allow staff at the hospital to communicate with the paramedics with a patient using audio and visual channels.
+It shall allow the staff members to invite other staff members in emergency activity by sending messages to their portable devices.
+The system shall have appropriate authentication and authorization features, and only the authorized users shall have access to a patient’s health information. Only on duty staff members shall be able to use the system. The system shall be able to integrate with other system and services of Australian health care system. As the number of users depends upon the volume of emergency response calls, the system shall be able to scale up if the numbers of users grow. As the staff members use different types of devices, the system shall support customization of interfaces and information depending upon the nature of the client devices. The system should be able to support different types of devices including mobile phones, tablets, laptops and stationary systems at hospitals.
+
+List of Tasks
+
+Identify five quality attributes (e.g., availability or portability) for the above given system based on a careful reading and analysis of the abovementioned requirements. You are expected to identify 3 external quality attributes and 2 internal quality attributes as mentioned in Table 14.1 (available below) of the course’s recommended book (chapter 14, page 263). (1%)
+Specify each of the identified quality attributes following the format/examples from the course’ recommend book, chapter 14, pages 261-294. (2%)
+Provide a brief statement of the relevance and justification for each of the identified quality attributes. (2%)
+Tips about doing this exercise based on the material in the book (pages 263, 267-268).
+
+An example of what a solution would look like and how to report it.
+
+Quality attribute: Availability (External)
+
+Specifying availability: “The system shall be at least 95 percent available on weekdays between 6:00 A.M. and midnight Eastern Time, and at least 99 percent available on weekdays between 3:00 P.M. and 5:00 P.M. Eastern Time.
+
+Relevance and justification: write a brief statement about why each of the identified quality attributes is relevant and what is the justification of having each of the quality attributes for the given system. For example, an emergency system needs to be available almost 100% of the time, 24/7 and 365 days in a year. 
+
+Evaluation Rubrics
+
+Task 1: (a) 3 external quality attributes and 2 internal quality attributes are identified (b) the identified quality attributes are correct and logical as per the provided requirements
+
+Task 2: (a) The quality attributes are specified according to the format/examples in chapter 14 of the course book (b) the specification is correct and logical (c) the specification is within 2-4 lines (Times 12pt, single space A4)
+
+Task 3: (a) Relevance and justification is provided (for each identified quality attribute) (b) the relevance and justification is correct and logical (c) the relevance and justification is with 2-4 lines ((Times 12pt, single space A4)
+
+If you don’t understand any part of the exercise, please contact us via email/Slack so that we can provide further information or setup a meeting if required.  
+
+How to Submit: The exercise solution will be submitted as a pdf document via Canvas as there will be an upload facility created for this exercise on Canvas. Please name the pdf document as Student ID-Ex1.pdf (e.g., 1695176-Ex1.pdf).
+
+This assignment is designed to help achieve the learning outcomes# 2, 3 and 4 from the course outline.  
+
+Please do not consider copy/pate from the seminar slides, book chapter or from anywhere else.
+
+ 
